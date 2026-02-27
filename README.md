@@ -19,7 +19,7 @@ I am a passionate developer focused on **Computer Vision** and **Generative AI**
 
 ---
 
-### 🚀 What I'm Working On 
+###  What I'm Working On 
 #### group mini project
 * **Infrared Pedestrian Detection:** Training GANs (U-Net/PatchGAN) to synthesize high-fidelity thermal images from RGB data.
 * **Deep Learning Optimization:** Implementing techniques like TTUR and Label Smoothing to stabilize generative models.
@@ -27,7 +27,7 @@ I am a passionate developer focused on **Computer Vision** and **Generative AI**
 
 ---
 
-### 🛠️ My Technical Toolkit
+###  My Technical Toolkit
 * **Languages:** Python, C, Java
 * **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Ultralytics (YOLOv8)
 * **Computer Vision:** OpenCV, Image Processing
@@ -35,7 +35,7 @@ I am a passionate developer focused on **Computer Vision** and **Generative AI**
 
 ---
 
-### 📈 Recent Achievement
+###  Recent Achievement
 Successfully stabilized a Pix2Pix GAN training process at **Epoch 22**, overcoming mode collapse and providing a refined dataset for my team's infrared detection project.
 
 ---
