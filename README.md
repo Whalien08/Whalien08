@@ -28,7 +28,7 @@ I am a passionate developer focused on **Computer Vision** and **Generative AI**
 ---
 
 ### 🛠️ My Technical Toolkit
-* **Languages:** Python, C++, Java
+* **Languages:** Python, C, Java
 * **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Ultralytics (YOLOv8)
 * **Computer Vision:** OpenCV, Image Processing, 2D/3D Transformations
 * **Tools:** Kaggle (GPU training), Git/GitHub, Linux
