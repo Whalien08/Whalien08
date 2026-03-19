@@ -23,7 +23,7 @@ I am a passionate developer focused on **Computer Vision** and **Generative AI**
 #### group mini project
 * **Infrared Pedestrian Detection:** Training GANs (U-Net/PatchGAN) to synthesize high-fidelity thermal images from RGB data.
 * **Deep Learning Optimization:** Implementing techniques like TTUR and Label Smoothing to stabilize generative models.
-* **YOLO Perception:** Integrating synthetic data with YOLOv8 for robust 3D traffic simulation detection.
+* **YOLO Perception:** Integrating synthetic data with YOLOv8.
 
 ---
 
