@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Mithra! 👋
 
-### 🎓 6th Semester Computer Science Student
-I am a passionate developer focused on **Computer Vision** and **Generative AI**. Currently, I’m specializing in bridging the gap between RGB data and Thermal perception using GANs.
+### **Computer Science & Engineering | Generative AI & Computer Vision Researcher**
+*6th Semester, College of Engineering Attingal (Class of 2027)*
 
 ---
 
@@ -35,7 +35,12 @@ I am a passionate developer focused on **Computer Vision** and **Generative AI**
 
 ---
 
-###  Recent Achievement
-Successfully stabilized a Pix2Pix GAN training process at **Epoch 22**, overcoming mode collapse and providing a refined dataset for my team's infrared detection project.
+### 📫 **Let's Connect**
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/mithra-xavier-8320b6291]
+* 📧 **Email:** [mithraxavier2005@gmail.com]
+* 📍 **Location:** Kerala, India
+
+---
+*“Stabilizing GANs at Epoch 22 and turning noise into data.”*
 
 ---
