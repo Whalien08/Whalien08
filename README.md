@@ -13,33 +13,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Mithra! 👋
+🎓 6th Semester CS Student | College of Engineering Attingal
 
-**Computer Science & Engineering | Generative AI & Computer Vision Researcher**
-*6th Semester, College of Engineering Attingal (Class of 2027)*
+I am an aspiring AI/ML developer passionate about Computer Vision and building full-stack applications. I enjoy learning by doing, experimenting with models, and turning academic concepts into real working projects.
 
----
+### What I'm Building
+**ASL Real-Time Hand Sign Detection**
+* Exploring computer vision to detect hand gestures in real-time
+* Working with OpenCV, MediaPipe, and cvzone for tracking and data collection
 
-### 🚀 What I'm Currently Working On
-* **ASL Real-Time Hand Sign Detection:** Building a computer vision pipeline using OpenCV, MediaPipe, and cvzone to detect and classify American Sign Language (ASL) gestures in real-time. 
-* **FLAT Learning Platform:** Developing an independent educational tool for Formal Languages and Automata Theory, building out the frontend with React/Vite and the backend with Python and FastAPI.
+**FLAT Learning Platform**
+* Building a web app to make Formal Languages and Automata Theory easier to learn
+* Setting up the frontend with React/Vite and the backend with Python/FastAPI
 
-### 🌟 Featured Projects
-* **Infrared Pedestrian Detection (Completed):** * Trained cGANs (U-Net Generator/PatchGAN Discriminator) to synthesize high-fidelity thermal images from RGB data.
-  * Implemented Deep Learning optimization techniques like TTUR and Label Smoothing to stabilize generative models.
-  * Successfully integrated the synthetic data pipeline to enhance YOLOv8 perception and detection capabilities.
+**Infrared Pedestrian Detection (Mini-Project)**
+* Trained GANs (U-Net/PatchGAN) to generate synthetic thermal images from RGB data
+* Integrated the generated data with YOLOv8 to test detection improvements
 
-### 🛠️ My Technical Toolkit
+### Skill Development
+* Practicing Data Structures & Algorithms (DSA) to write better code
+* Strengthening my core understanding of Computer Networking and Image Processing
+
+### My Technical Toolkit
 * **Languages:** Python, C, Java, JavaScript
-* **AI/ML & Vision:** TensorFlow, Keras, PyTorch, Ultralytics (YOLOv8), OpenCV, MediaPipe, cvzone, Digital Image Processing
-* **Web Development:** React, Vite, FastAPI
-* **Tools & Platforms:** Git/GitHub, Kaggle (GPU training), Google Cloud 
+* **Core CS:** DSA, Computer Networking, Digital Image Processing
+* **AI & Vision:** TensorFlow, PyTorch (Beginner), YOLOv8, OpenCV, MediaPipe
+* **Web Dev:** React, Vite, FastAPI
+* **Tools:** Git/GitHub, Kaggle
 
-### 📫 **Let's Connect**
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/mithra-xavier-8320b6291]
-* 📧 **Email:** [mithraxavier2005@gmail.com]
-* 📍 **Location:** Kerala, India
+###  **Let's Connect**
+*  **LinkedIn:** [https://www.linkedin.com/in/mithra-xavier-8320b6291]
+*  **Email:** [mithraxavier2005@gmail.com]
+*  **Location:** Kerala, India
 
----
-*“Stabilizing GANs at Epoch 22 and turning noise into data.”*
+###  Goal
+To keep growing as a developer, build impactful real-world projects.
+
+###  Fun Fact
+I believe in consistency over perfection! Though, getting my GANs to finally stabilize at Epoch 22 felt pretty close to perfect.
 
 ---
