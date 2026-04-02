@@ -14,26 +14,25 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Mithra! 👋
 
-### **Computer Science & Engineering | Generative AI & Computer Vision Researcher**
+**Computer Science & Engineering | Generative AI & Computer Vision Researcher**
 *6th Semester, College of Engineering Attingal (Class of 2027)*
 
 ---
 
-###  What I'm Working On 
-#### group mini project
-* **Infrared Pedestrian Detection:** Training GANs (U-Net/PatchGAN) to synthesize high-fidelity thermal images from RGB data.
-* **Deep Learning Optimization:** Implementing techniques like TTUR and Label Smoothing to stabilize generative models.
-* **YOLO Perception:** Integrating synthetic data with YOLOv8.
+### 🚀 What I'm Currently Working On
+* **ASL Real-Time Hand Sign Detection:** Building a computer vision pipeline using OpenCV, MediaPipe, and cvzone to detect and classify American Sign Language (ASL) gestures in real-time. 
+* **FLAT Learning Platform:** Developing an independent educational tool for Formal Languages and Automata Theory, building out the frontend with React/Vite and the backend with Python and FastAPI.
 
----
+### 🌟 Featured Projects
+* **Infrared Pedestrian Detection (Completed):** * Trained cGANs (U-Net Generator/PatchGAN Discriminator) to synthesize high-fidelity thermal images from RGB data.
+  * Implemented Deep Learning optimization techniques like TTUR and Label Smoothing to stabilize generative models.
+  * Successfully integrated the synthetic data pipeline to enhance YOLOv8 perception and detection capabilities.
 
-###  My Technical Toolkit
-* **Languages:** Python, C, Java
-* **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Ultralytics (YOLOv8)
-* **Computer Vision:** OpenCV, Image Processing
-* **Tools:** Kaggle (GPU training), Git/GitHub
-
----
+### 🛠️ My Technical Toolkit
+* **Languages:** Python, C, Java, JavaScript
+* **AI/ML & Vision:** TensorFlow, Keras, PyTorch, Ultralytics (YOLOv8), OpenCV, MediaPipe, cvzone, Digital Image Processing
+* **Web Development:** React, Vite, FastAPI
+* **Tools & Platforms:** Git/GitHub, Kaggle (GPU training), Google Cloud 
 
 ### 📫 **Let's Connect**
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/mithra-xavier-8320b6291]
