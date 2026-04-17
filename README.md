@@ -49,7 +49,6 @@ I am an aspiring AI/ML developer passionate about Computer Vision and building f
 ###  Goal
 To keep growing as a developer, build impactful real-world projects.
 
-###  Fun Fact
-I believe in consistency over perfection! Though, getting my GANs to finally stabilize at Epoch 22 felt pretty close to perfect.
+
 
 ---
