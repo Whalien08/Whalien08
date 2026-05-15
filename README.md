@@ -43,7 +43,7 @@ I am an aspiring AI/ML developer passionate about Computer Vision and building f
 
 ###  **Let's Connect**
 *  **LinkedIn:** [https://www.linkedin.com/in/mithra-xavier-8320b6291]
-*  **Email:** [mithraxavier2005@gmail.com]
+*  **Email:** [mithraxavier.cse@gmail.com]
 *  **Location:** Kerala, India
 
 ###  Goal
