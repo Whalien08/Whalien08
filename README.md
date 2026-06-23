@@ -73,11 +73,21 @@
 
 <br>
 
-### 🪴 GitHub Stats
+### 🎀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whalien08&show_icons=true&theme=pastel&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <a href="https://github.com/Whalien08">
+    <img src="https://github-readme-stats.vercel.app/api?username=Whalien08&show_icons=true&theme=pastel&hide_border=true" alt="Mithra's GitHub Stats" />
+  </a>
 </div>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whalien08&layout=compact&theme=pastel&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <a href="https://github.com/Whalien08">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whalien08&layout=compact&theme=pastel&hide_border=true" alt="Mithra's Top Languages" />
+  </a>
 </div>
+
+<p align="center">
+  <br>
+  <i>"Always learning, always building." ☁️✨</i>
+</p>
