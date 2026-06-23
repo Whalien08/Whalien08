@@ -36,7 +36,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Frontend & Web** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend & Web** 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -48,6 +49,19 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
+
+### 🚀 What I'm Building
+
+**Frontend & UI Development**
+* 🎨 Crafting responsive, aesthetic web components (like interactive product cards and recipe layouts) to master HTML5, CSS3, and modern UI/UX principles.
+* 🛠️ Building interactive Vanilla JavaScript applications, including a custom **Pixel Art Maker** with HTML5 Canvas and a dynamic **QR Code Generator**.
+* ⚛️ Diving into the React ecosystem with projects like my **React Movie App**, laying the foundation for my transition into the full-stack MERN ecosystem.
+
+**Machine Learning Integration**
+* 🧠 **Infrared Pedestrian Detection (Capstone):** Training Pix2Pix GANs (U-Net/PatchGAN) to generate synthetic thermal images from RGB data, supplying diverse datasets to enhance downstream object detection pipelines.
+
+---
+
 
 ### 📊 GitHub Stats
 
