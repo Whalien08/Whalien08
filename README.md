@@ -6,12 +6,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Bridging+Machine+Learning+%26+Frontend;Crafting+Aesthetic+User+Interfaces;Training+GANs+%26+Exploring+AI;Always+Learning,+Always+Building+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
     </a>
   </h3>
-
-  <p>
-    🌸 <b>7th-Semester B.Tech CS Student (9.3 CGPA)</b> at College of Engineering Attingal 🌸<br>
-    Passionate about building intuitive web experiences and powering them with intelligent ML models. 
-  </p>
-
+  
   <p>
     <a href="https://www.linkedin.com/in/mithra-xavier-8320b6291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mithraxavier.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,25 +14,35 @@
   </p>
 </div>
 
-<br>
+---
 
-### 🎀 What I'm Building & Learning
+### 🌸 About Me
 
-**☁️ Frontend & UI Development**
-* 🎨 **Crafting Aesthetics:** Designing responsive web components (like interactive product cards and recipe layouts) to master HTML5, CSS3, and modern UI/UX principles.
-* 🛠️ **Vanilla JS Magic:** Building interactive applications, including a custom **Pixel Art Maker** with HTML5 Canvas and a dynamic **QR Code Generator**.
-* 🌱 **Current Journey:** Diving into the React ecosystem with projects like my **React Movie App**, laying the foundation for transitioning into the full-stack **MERN** ecosystem.
+*   🎓 I'm a **7th-Semester Computer Science student** (9.3 CGPA) at the College of Engineering Attingal.
+*   💻 I focus on crafting aesthetic frontends and integrating them with intelligent ML models.
+*   📚 I'm currently preparing to dive into the **MERN Stack** (MongoDB, Express, React, Node.js) for end-to-end full-stack development.
+*   🍓 I love turning academic concepts into real, beautifully designed web projects and exploring the magic of Generative AI!
 
-**☁️ Machine Learning Integration**
-* 🧠 **Infrared Pedestrian Detection (Capstone):** Training Pix2Pix GANs (U-Net/PatchGAN) to generate synthetic thermal images from RGB data, supplying diverse datasets to enhance downstream object detection pipelines.
+---
 
-<br>
+### 🎀 Featured Projects
+
+**☁️ Frontend & UI Playground**
+> **React Movie App:** Diving into the React ecosystem to build dynamic, component-based user interfaces. 
+> **Pixel Art Maker:** A browser-based editor featuring grid resizing and flood fill, built purely with HTML5 Canvas and Vanilla JavaScript.
+> **QR Code Generator:** A clean, responsive utility demonstrating core DOM manipulation and modern CSS3 styling.
+> **UI Components:** Crafting interactive product cards and recipe layouts to perfect my UI/UX fundamentals.
+
+**🧠 Machine Learning & Vision**
+> **Infrared Pedestrian Detection (Capstone):** Explored synthetic data generation by training Pix2Pix GANs (using U-Net/PatchGAN architectures) to translate RGB data into thermal images, creating diverse datasets for object detection pipelines.
+
+---
 
 ### 💻 My Tech Stack
 
 <div align="center">
   
-  <p><b>Core Languages</b></p>
+  <p><b>✨ Core Languages</b></p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -45,7 +50,7 @@
   
   <br><br>
   
-  <p><b>Frontend & Web</b></p>
+  <p><b>✨ Frontend & Web</b></p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -54,7 +59,7 @@
   
   <br><br>
   
-  <p><b>Machine Learning & Vision</b></p>
+  <p><b>✨ Machine Learning & Vision</b></p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -62,7 +67,7 @@
   
   <br><br>
 
-  <p><b>Tools & Platforms</b></p>
+  <p><b>✨ Tools & Platforms</b></p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -71,9 +76,9 @@
 
 </div>
 
-<br>
+---
 
-### 🎀 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Whalien08">
