@@ -3,7 +3,7 @@
 <h3 align="center">Bridging Machine Learning & Frontend Development ✨</h3>
 
 <p align="center">
-  I'm a 6th-semester B.Tech Computer Science student (9.19 CGPA) at the College of Engineering Attingal. I am passionate about building intuitive user interfaces and powering them with intelligent ML models. Currently exploring the frontend ecosystem and gearing up to dive into Full-Stack Development!
+  I'm a 7th-semester B.Tech Computer Science student (9.3 CGPA) at the College of Engineering Attingal. I am passionate about building intuitive user interfaces and powering them with intelligent ML models. Currently exploring the frontend ecosystem and gearing up to dive into Full-Stack Development!
 </p>
 
 <p align="center">
