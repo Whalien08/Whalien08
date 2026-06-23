@@ -27,6 +27,19 @@
 
 ### 🎀 Featured Projects
 
+<p>
+  <img src="https://img.shields.io/badge/Newbie-6ABECD?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Newbie" />
+  <img src="https://img.shields.io/badge/Junior-AAD742?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Junior" />
+  <img src="https://img.shields.io/badge/Intermediate-F1B604?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-F48925?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Advanced" />
+</p>
+
+*   🪻 [QR Code Component](https://github.com/Whalien08/qr-code-component)
+*   🪻 [Blog Preview Card](https://github.com/Whalien08/blog-preview-card)
+*   🪻 [Social Links Profile](https://github.com/Whalien08/social-links-profile)
+*   🪻 [Recipe Page](https://github.com/Whalien08/Recipe-page-main)
+*   🪻 [Product Preview Card Component](https://github.com/Whalien08/Product-preview-card-component)
+  
 **☁️ Frontend & UI Playground**
 > **React Movie App:** Diving into the React ecosystem to build dynamic, component-based user interfaces. 
 > **Pixel Art Maker:** A browser-based editor featuring grid resizing and flood fill, built purely with HTML5 Canvas and Vanilla JavaScript.
